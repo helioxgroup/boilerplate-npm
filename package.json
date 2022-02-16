@@ -1,6 +1,6 @@
 {
 	"name": "eddie-learn-npm-package-json",
-	"author": "Eddie",
+	"author": "Ed Jae",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
